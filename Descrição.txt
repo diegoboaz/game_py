@@ -1,0 +1,9 @@
+Inicie o Servidor:
+
+Execute server.py em uma janela de terminal para iniciar o servidor.
+Inicie Múltiplos Clientes:
+
+Execute client.py em múltiplas janelas de terminal ou computadores diferentes para iniciar vários clientes.
+Jogando o Jogo:
+
+Cada cliente pode tentar adivinhar o número. Quando um cliente acerta, todos os clientes são notificados.
